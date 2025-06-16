@@ -1,0 +1,9 @@
+{
+    "name" : "ChatGPT-based variants",
+    "generators" : [
+        "ChatGPT_0.8",
+        "ChatGPT_0.8_repaired",
+        "ChatGPT_0.9",
+        "ChatGPT_0.9+R"
+    ]
+}

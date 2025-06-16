@@ -1,0 +1,20 @@
+\begin{table}[!t]
+\caption*{
+{\large Most important methods}
+} 
+
+\fontsize{12.0pt}{14.4pt}\selectfont
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}lcccccc}
+\toprule
+Generator & Average generation time (s) & No visual bugs percentage & Valid percentage & Content diversity & A* diversity & Coverage \\ 
+\midrule\addlinespace[2.5pt]
+ProMP & 0.0047 & 1.0000 & 0.9750 & 0.9441 & 0.8334 & 1.0000 \\
+Genetic Algorithm & 18.8914 & 1.0000 & 0.8150 & 0.5460 & 0.5317 & 0.2229 \\
+GAN & 0.0130 & 0.1350 & 0.0900 & 0.3268 & 0.6587 & 0.1029 \\
+MarioGAN & 41.9320 & 0.2150 & 0.0950 & 0.3157 & 0.6769 & 0.1086 \\
+MarioGPT & 25.4491 & 0.6550 & 0.2650 & 0.9723 & 0.9511 & 0.2971 \\
+\bottomrule
+\end{tabular*}
+
+\end{table}

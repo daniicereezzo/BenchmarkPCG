@@ -1,0 +1,11 @@
+{
+    "name" : "Técnicas de generación de niveles más importantes de la literatura",
+    "generators" : [
+        "ProMP",
+        "Genetic Algorithm",
+        "GAN+R",
+        "MarioGAN+R",
+        "MarioGPT+R",
+        "ChatGPT_0.9+R"
+    ]
+}

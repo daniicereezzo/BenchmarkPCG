@@ -1,0 +1,10 @@
+{
+    "name" : "Most important methods repaired",
+    "generators" : [
+        "ProMP",
+        "Genetic Algorithm",
+        "GAN+R",
+        "MarioGAN+R",
+        "MarioGPT+R"
+    ]
+}

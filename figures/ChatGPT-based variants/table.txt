@@ -1,0 +1,19 @@
+\begin{table}[!t]
+\caption*{
+{\large ChatGPT-based variants}
+} 
+
+\fontsize{12.0pt}{14.4pt}\selectfont
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}lcccccc}
+\toprule
+Generator & Average generation time (s) & No visual bugs percentage & Valid percentage & Content diversity & A* diversity & Coverage \\ 
+\midrule\addlinespace[2.5pt]
+ChatGPT\_0.8 & 16.3736 & 0.7000 & 0.5650 & 0.2056 & 0.1696 & 0.2400 \\
+ChatGPT\_0.8\_repaired & 16.3747 & 0.9600 & 0.7500 & 0.2003 & 0.2342 & 0.3486 \\
+ChatGPT\_0.9 & 22.1358 & 0.4350 & 0.3750 & 0.2551 & 0.1631 & 0.2686 \\
+ChatGPT\_0.9+R & 22.1370 & 0.9250 & 0.7600 & 0.3355 & 0.2602 & 0.5714 \\
+\bottomrule
+\end{tabular*}
+
+\end{table}

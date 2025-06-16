@@ -1,0 +1,21 @@
+\begin{table}[!t]
+\caption*{
+{\large Técnicas de generación de niveles más importantes de la literatura}
+} 
+
+\fontsize{12.0pt}{14.4pt}\selectfont
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}lcccccc}
+\toprule
+Generator & Average generation time (s) & No visual bugs percentage & Valid percentage & Content diversity & A* diversity & Coverage \\ 
+\midrule\addlinespace[2.5pt]
+ProMP & 0.0047 & 1.0000 & 0.9750 & 0.9441 & 0.8334 & 1.0000 \\
+Genetic Algorithm & 18.8914 & 1.0000 & 0.8150 & 0.5460 & 0.5317 & 0.2229 \\
+GAN+R & 0.0141 & 1.0000 & 0.7050 & 0.3321 & 0.6994 & 0.6286 \\
+MarioGAN+R & 41.9330 & 1.0000 & 0.6350 & 0.3319 & 0.7440 & 0.6400 \\
+MarioGPT+R & 25.4501 & 0.9850 & 0.3300 & 1.0000 & 1.0000 & 0.3714 \\
+ChatGPT\_0.9+R & 22.1370 & 0.9250 & 0.7600 & 0.3355 & 0.2602 & 0.5714 \\
+\bottomrule
+\end{tabular*}
+
+\end{table}

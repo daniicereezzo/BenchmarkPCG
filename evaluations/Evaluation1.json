@@ -1,0 +1,10 @@
+{
+    "name" : "Most important methods",
+    "generators" : [
+        "ProMP",
+        "Genetic Algorithm",
+        "GAN",
+        "MarioGAN",
+        "MarioGPT"
+    ]
+}

@@ -1,0 +1,19 @@
+\begin{table}[!t]
+\caption*{
+{\large ExtendedGAN variants}
+} 
+
+\fontsize{12.0pt}{14.4pt}\selectfont
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}lcccccc}
+\toprule
+Generator & Average generation time (s) & No visual bugs percentage & Valid percentage & Content diversity & A* diversity & Coverage \\ 
+\midrule\addlinespace[2.5pt]
+ExtendedGAN & 0.0121 & 0.2600 & 0.0900 & 0.5072 & 0.7741 & 0.1029 \\
+ExtendedGAN\_repaired & 0.0131 & 1.0000 & 0.4500 & 0.5072 & 0.8102 & 0.4914 \\
+ExtendedMarioGAN & 48.8182 & 0.2800 & 0.0750 & 0.4949 & 0.7769 & 0.0800 \\
+ExtendedMarioGAN\_repaired & 48.8192 & 0.9950 & 0.3950 & 0.5274 & 0.9451 & 0.4000 \\
+\bottomrule
+\end{tabular*}
+
+\end{table}

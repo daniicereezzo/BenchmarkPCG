@@ -1,0 +1,9 @@
+{
+    "name" : "ExtendedGAN variants",
+    "generators" : [
+        "ExtendedGAN",
+        "ExtendedGAN_repaired",
+        "ExtendedMarioGAN",
+        "ExtendedMarioGAN_repaired"
+    ]
+}

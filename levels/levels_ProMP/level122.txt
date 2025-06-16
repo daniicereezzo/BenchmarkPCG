@@ -1,0 +1,14 @@
+-----------------------------------o--------o-----------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------o------------------------------o-------------------o---------------o------------------------------
+-------------------------------<>-----------------------------o------------------o------------------<>-<><>---------------------------------
+-------------------------------[]-------E----E------E----------SSSSSSSS------------<>-----------o---[]-[][]----E-E-----SS-------------------
+---------------------------o---[]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------XXX<>----<>[]EEo------SS--SS[]S[][]--SSSSSSSS-----------------------
+--------<>o---------SSS-------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------XXX[]----[][]SSSSXXXXXXXXXXXXXXXXXXXXX<>----------------------------
+--------[]-SS---------------E-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------XXX[]E-o-[][]----XXXXXXXXXXXXXXXXXXXXX[]----------o-----o---o-------
+--------[]<>-----<>--------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX[]---------SSSSS---<>---------
+--------[][]-----[]-------oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----<>------[]---------
+XXXXXXXXXXXXX----[]--------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----[]--XXXXXX---------
+XXXXXXXXXXXXX----[]--------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--EE----o
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
