@@ -12,7 +12,7 @@ Make sure you have installed a conda distribution before building and running an
 
 ## General guidelines
 
-In order to use the software tool, follow these build process:
+In order to use the software tool, follow this build process:
 
 1. Create a conda environment from the file `environment.yml` with the following command:
 
