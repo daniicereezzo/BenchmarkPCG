@@ -2,7 +2,7 @@
 
 ## Overview
 
-Repository containing the Benchmark for Video Game Level Generators developed in the Bachelor Thesis **'Evolución de las técnicas de Generación Automática de Niveles en Videojuegos: De algoritmos tradicionales a modelos avanzados de Deep Learning'**.
+Repository containing the Benchmark for Video Game Level Generators developed in the paper **'From Traditional Methods to GPT-based Models for 2D Video Game Level Procedural Content Generation: An Empirical Study'**. 
 
 This README provides some guidelines on how to build and run the benchmark software tool.
 
